@@ -7,5 +7,8 @@ step 1:
       Run the server.py it will create virtual server which helps to interact two clients.
       
 step2:
-     We need two client that's why we have to run client.py on two diffrent platforms
+    You need your Ip Address to connect two client on same portal.
+    To get the Ip Address Just simply go to the command Prompt and run this command >> ipconfig
+    this command will show your ipv4 address.
+
      
